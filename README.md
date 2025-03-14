@@ -10,11 +10,17 @@ Hubungan antar class: <br>
 **Hierarchical Inheritance**: 
 - Periferal sebagai parent class memiliki turunan Mouse, Keyboard, dan Monitor
 - Software sebagai parent class memiliki turunan OS, Antivirus, dan Gaming
-- Komponen sebagai parent class memiliki turunan Cpu, Ram, dan Harddrive. <br> <br>
+- Komponen sebagai parent class memiliki turunan Cpu, Ram, dan Harddrive.
+
+
 **Multiple Inheritance**:
-- KeyboardGaming mewarisi dari Keyboard dan RGBController. <br> <br>
+- KeyboardGaming mewarisi dari Keyboard dan RGBController.
+
+
 **Single Inheritance**:
-- KomputerGaming mewarisi dari Komputer. <br> <br>
+- KomputerGaming mewarisi dari Komputer.
+
+
 **Composition**:
 - Komputer memiliki komposisi dengan Cpu, Ram, dan Harddrive, (2)Komputer memiliki komposisi dengan list of Periferal dan list of Software
 
