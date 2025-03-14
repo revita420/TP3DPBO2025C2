@@ -40,3 +40,10 @@ Kemudian program melakukan beberapa aksi:
 
 
 Terakhir, program menampilkan informasi terbaru komputer gaming setelah dilakukan modifikasi.
+
+# Dokumentasi
+![WhatsApp Image 2025-03-14 at 11 19 10_047793b8](https://github.com/user-attachments/assets/0c48de2f-958c-4d88-8409-9405c0dec38e)
+![WhatsApp Image 2025-03-14 at 11 19 45_2595daa1](https://github.com/user-attachments/assets/b96a0248-9b3d-474a-9912-263009b91d77)
+![WhatsApp Image 2025-03-14 at 11 20 08_ccf38461](https://github.com/user-attachments/assets/53e56a34-0e90-446d-bd26-b8efd4cfddb9)
+
+
