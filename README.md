@@ -20,9 +20,9 @@ Pertama data komponen komputer diisi secara statis, lalu program membuat objek k
 Selanjutnya program membuat array untuk menyimpan periferal dan software. Kemudian program membuat objek komputer gaming dengan komponen-komponen yang telah dibuat sebelumnya.
 Program kemudian menampilkan informasi komputer gaming yang telah dibuat. Setelah itu program membuat objek keyboard gaming yang menunjukkan implementasi multiple inheritance.
 Kemudian program melakukan beberapa aksi:
-(1)Menampilkan informasi keyboard gaming
-(2)Mengubah status RGB pada keyboard gaming dengan memanggil method toggle_rgb()
-(3)Menambahkan RAM baru pada komputer gaming dengan method add_ram()
-(4)Menambahkan periferal baru (headset) pada komputer gaming dengan method add_periferal()
-(5)Menambahkan software baru (game) pada komputer gaming dengan method add_software(). 
+- Menampilkan informasi keyboard gaming
+- Mengubah status RGB pada keyboard gaming dengan memanggil method toggle_rgb()
+- Menambahkan RAM baru pada komputer gaming dengan method add_ram()
+- Menambahkan periferal baru (headset) pada komputer gaming dengan method add_periferal()
+- Menambahkan software baru (game) pada komputer gaming dengan method add_software(). 
 Terakhir, program menampilkan informasi terbaru komputer gaming setelah dilakukan modifikasi.
