@@ -6,7 +6,9 @@ Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP3 DPBO deng
 
 # Desain Program
 Program terdiri dari 13 class yaitu Komputer, KomputerGaming, Cpu, Ram, Harddrive, Periferal, Mouse, Keyboard, Monitor, Software, OS, Antivirus, Gaming, RGBController, dan KeyboardGaming.
-Hubungan antar class: <br>
+Hubungan antar class: 
+
+
 **Hierarchical Inheritance**: 
 - Periferal sebagai parent class memiliki turunan Mouse, Keyboard, dan Monitor
 - Software sebagai parent class memiliki turunan OS, Antivirus, dan Gaming
@@ -33,4 +35,7 @@ Kemudian program melakukan beberapa aksi:
 - Mengubah status RGB pada keyboard gaming dengan memanggil method toggle_rgb()
 - Menambahkan RAM baru pada komputer gaming dengan method add_ram()
 - Menambahkan periferal baru (headset) pada komputer gaming dengan method add_periferal()
-- Menambahkan software baru (game) pada komputer gaming dengan method add_software(). Terakhir, program menampilkan informasi terbaru komputer gaming setelah dilakukan modifikasi.
+- Menambahkan software baru (game) pada komputer gaming dengan method add_software().
+
+
+Terakhir, program menampilkan informasi terbaru komputer gaming setelah dilakukan modifikasi.
