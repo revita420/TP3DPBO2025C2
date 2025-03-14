@@ -7,17 +7,10 @@ Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP3 DPBO deng
 # Desain Program
 Program terdiri dari 13 class yaitu Komputer, KomputerGaming, Cpu, Ram, Harddrive, Periferal, Mouse, Keyboard, Monitor, Software, OS, Antivirus, Gaming, RGBController, dan KeyboardGaming.
 Hubungan antar class:
-**Hierarchical Inheritance:
-- Periferal sebagai parent class memiliki turunan Mouse, Keyboard, dan Monitor
-- Software sebagai parent class memiliki turunan OS, Antivirus, dan Gaming
-- Komponen sebagai parent class memiliki turunan Cpu, Ram, dan Harddrive
-**Multiple Inheritance:
-- KeyboardGaming mewarisi dari Keyboard dan RGBController
-**Single Inheritance:
-- KomputerGaming mewarisi dari Komputer
-**Composition:
-- Komputer memiliki komposisi dengan Cpu, Ram, dan Harddrive
-- Komputer memiliki komposisi dengan list of Periferal dan list of Software
+** Hierarchical Inheritance: (1)Periferal sebagai parent class memiliki turunan Mouse, Keyboard, dan Monitor, (2)Software sebagai parent class memiliki turunan OS, Antivirus, dan Gaming, (3)Komponen sebagai parent class memiliki turunan Cpu, Ram, dan Harddrive.
+** Multiple Inheritance: (1)KeyboardGaming mewarisi dari Keyboard dan RGBController.
+** Single Inheritance: (1)KomputerGaming mewarisi dari Komputer.
+** Composition: (1)Komputer memiliki komposisi dengan Cpu, Ram, dan Harddrive, (2)Komputer memiliki komposisi dengan list of Periferal dan list of Software
 
 # Alur Program
 Pertama data komponen komputer diisi secara statis, lalu program membuat objek komponen dasar (Cpu, Ram, Harddrive). Setelah itu program membuat objek periferal (Mouse, Keyboard, Monitor) dan software (OS, Antivirus, Gaming).
