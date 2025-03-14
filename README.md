@@ -24,7 +24,8 @@ Hubungan antar class:
 
 
 **Composition**:
-- Komputer memiliki komposisi dengan Cpu, Ram, dan Harddrive, (2)Komputer memiliki komposisi dengan list of Periferal dan list of Software
+- Komputer memiliki komposisi dengan Cpu, Ram, dan Harddrive
+- Komputer memiliki komposisi dengan list of Periferal dan list of Software
 
 # Alur Program
 Pertama data komponen komputer diisi secara statis, lalu program membuat objek komponen dasar (Cpu, Ram, Harddrive). Setelah itu program membuat objek periferal (Mouse, Keyboard, Monitor) dan software (OS, Antivirus, Gaming).
