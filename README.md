@@ -24,5 +24,4 @@ Kemudian program melakukan beberapa aksi:
 - Mengubah status RGB pada keyboard gaming dengan memanggil method toggle_rgb()
 - Menambahkan RAM baru pada komputer gaming dengan method add_ram()
 - Menambahkan periferal baru (headset) pada komputer gaming dengan method add_periferal()
-- Menambahkan software baru (game) pada komputer gaming dengan method add_software()
-Terakhir, program menampilkan informasi terbaru komputer gaming setelah dilakukan modifikasi.
+- Menambahkan software baru (game) pada komputer gaming dengan method add_software(). Terakhir, program menampilkan informasi terbaru komputer gaming setelah dilakukan modifikasi.
