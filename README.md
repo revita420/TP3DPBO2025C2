@@ -5,7 +5,7 @@ Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP3 DPBO deng
 ![TP3 drawio](https://github.com/user-attachments/assets/c9bc5b46-fe67-45fe-b50d-0df592001ca5)
 
 # Desain Program
-Program terdiri dari 13 class yaitu Komputer, KomputerGaming, Cpu, Ram, Harddrive, Periferal, Mouse, Keyboard, Monitor, Software, OS, Antivirus, Gaming, RGBController, dan KeyboardGaming.
+Program terdiri dari 16 class yaitu Komponen, Komputer, KomputerGaming, Cpu, Ram, Harddrive, Periferal, Mouse, Keyboard, Monitor, Software, OS, Antivirus, Gaming, RGBController, dan KeyboardGaming.
 Hubungan antar class: 
 
 
